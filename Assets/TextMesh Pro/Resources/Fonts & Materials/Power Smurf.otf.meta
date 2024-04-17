@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b456a057b8c014c7dad5a5130293bfb0
+guid: 11ec728c1dc10f04693ff7706f05682d
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,12 +9,12 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Titan One
+  - Power Smurf
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 1
+  useLegacyBoundsCalculation: 0
   shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
